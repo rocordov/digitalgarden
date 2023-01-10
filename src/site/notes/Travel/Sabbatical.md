@@ -2,11 +2,12 @@
 {"dg-publish":true,"permalink":"/travel/sabbatical/","tags":["gardenEntry"]}
 ---
 
-Places to visit during
-	[[Travel/Japan\|Japan]] 
+April - May 2023
 
-	[[Travel/Thailand\|Thailand]]
-		
-	[[Travel/Laos\|Laos]]
+Places to visit 
+[[Travel/Japan\|Japan]] 
+[[Travel/Thailand\|Thailand]]
+[[Travel/Laos\|Laos]]
+
 Tools
 	https://www.budgetyourtrip.com 
