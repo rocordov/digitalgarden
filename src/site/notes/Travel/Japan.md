@@ -24,9 +24,143 @@ Ensuring the safety and security of U.S. citizens overseas is the Department of 
 -   [Emergency Preparedness for U.S. citizens in Japan](https://jp.usembassy.gov/services/emergency-preparedness-americans-japan/)
 -   [Medical Assistance](https://jp.usembassy.gov/services/doctors/)
 -   [Sources of Help, including counseling services](https://jp.usembassy.gov/services/sources-of-help/)	
-Flight
-	#from PHX to Tokyo
-		One-way for 2 adults March 23 ~ $1700
+Flights
+	Phoenix to San Francisco – UA 1240
+		Apr 8, 5:30 AM–7:33 AM
+		Take-off
+		Apr 8, 5:30 AM
+		Landing
+		Apr 8, 7:33 AM
+		Flight duration
+		2 hr, 3 min
+		Confirmation number		
+		N7QD0X
+
+[View in Travel](https://www.google.com/travel/trips/trip?msg_id=msg-f%3A1754459448770147007&authuser=0&hl=en&dest_src=wgm)
+
+San Francisco to Tokyo – NH 7
+
+Apr 8, 12:20 PM–Apr 9, 3:25 PM
+
+Take-off
+
+Apr 8, 12:20 PM
+
+Landing
+
+Apr 9, 3:25 PM
+
+Flight duration
+
+11 hr, 5 min
+
+Passenger name
+
+CORDOVA/ROIS
+
+Seat
+
+-
+
+Confirmation number
+
+N7QD0X
+
+[View in Travel](https://www.google.com/travel/trips/trip?msg_id=msg-f%3A1754459448770147007&authuser=0&hl=en&dest_src=wgm)
+
+Tokyo to Bangkok – NH 847
+
+Apr 12, 10:50 AM–3:30 PM
+
+Take-off
+
+Apr 12, 10:50 AM
+
+Landing
+
+Apr 12, 3:30 PM
+
+Flight duration
+
+6 hr, 40 min
+
+Passenger name
+
+CORDOVA/ROIS
+
+Seat
+
+-
+
+Confirmation number
+
+N7QD0X
+
+[View in Travel](https://www.google.com/travel/trips/trip?msg_id=msg-f%3A1754459448770147007&authuser=0&hl=en&dest_src=wgm)
+
+Bangkok to Tokyo – NH 848
+
+May 9, 9:35 AM–6:00 PM
+
+Take-off
+
+May 9, 9:35 AM
+
+Landing
+
+May 9, 6:00 PM
+
+Flight duration
+
+6 hr, 25 min
+
+Passenger name
+
+CORDOVA/ROIS
+
+Seat
+
+-
+
+Confirmation number
+
+N7QD0X
+
+[View in Travel](https://www.google.com/travel/trips/trip?msg_id=msg-f%3A1754459448770147007&authuser=0&hl=en&dest_src=wgm)
+
+Tokyo to Seattle – NH 118
+
+May 9, 9:15 PM–2:25 PM
+
+Take-off
+
+May 9, 9:15 PM
+
+Landing
+
+May 9, 2:25 PM
+
+Flight duration
+
+9 hr, 10 min
+
+Passenger name
+
+CORDOVA/ROIS
+
+Seat
+
+-
+
+Confirmation number
+
+N7QD0X
+
+[View in Travel](https://www.google.com/travel/trips/trip?msg_id=msg-f%3A1754459448770147007&authuser=0&hl=en&dest_src=wgm)
+
+Portland to Orlando – AS 782
+
+May 9, 3:55 PM–May 10, 6:46 PM
 Shopping and Enterainment
 	$400
 [[Travel/Japan Total\|Japan Total]]
