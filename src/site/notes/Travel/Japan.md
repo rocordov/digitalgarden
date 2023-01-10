@@ -7,7 +7,7 @@ Expenses https://www.budgetyourtrip.com/japan/tokyo#category-6
 	Food
 		$100/day for 2 adults
 		Total for 4 days $400
-	[[Japan Hotel\|Japan Hotel]]
+	[[Travel/Japan Hotel\|Japan Hotel]]
 Transportation
 	$30/day
 	Total for 4 days $120
