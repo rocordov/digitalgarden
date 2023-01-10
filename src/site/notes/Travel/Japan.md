@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/travel/japan/","tags":["gardenEntry"]}
 ---
 
-March 23-26
+Apr 8 - 12
 Expenses https://www.budgetyourtrip.com/japan/tokyo#category-6
 	Food
 		$100/day for 2 adults
