@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/travel/japan/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/travel/japan/"}
 ---
 
 Apr 8 - 12
